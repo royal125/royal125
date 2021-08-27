@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link { color:hsl(0, 96%, 45%);
+    padding-left: 10px;
+}
+
+
+
+.navbar-brand{
+    margin-left:1.5em;
+}
+.wol{
+    color: rgb(255, 246, 246);
+    margin-left: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.code{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1px;
+    font-weight: 900;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link{
+    color: brown;
+}
+    
