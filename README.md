@@ -16,4 +16,4 @@ Visit my portfolio: **[https://cvzone.pro](https://cvzone.pro)**
 - **Email:** Hsbhular@gmail.com
 
 ## 🌟 Featured Projects
-Check out my projects on my portfolio: [cvzone.pro/projects](https://cvzone.pro/projects)
+Check out my projects code in reposotries
